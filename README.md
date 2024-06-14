@@ -1,4 +1,4 @@
 # README
-<div>
-  <img src="gitversion.png" height=100, width='100'>
+<div align="center">
+    <img src="/screenshots/gitversion.jpg" height='200' , width="400px"</img> 
 </div>
